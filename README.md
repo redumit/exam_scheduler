@@ -1,2 +1,2 @@
 # exam_scheduler
-manly concern in exam scheduler of colleges 
+concern in exam scheduler of colleges 
